@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pop Wanda Vision",
+    "price": "4000",
+    "thumbnail": "https://www.tradeinn.com/f/13813/138135767/funko-pop-marvel-wandavision-bruja-escarlata.jpg",
+    "id": 1
+  },
+  {
+    "title": "Pop Wolverine",
+    "price": "4800",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_900704-MLA46941026159_082021-O.webp",
+    "id": 3
+  },
+  {
+    "title": "Pop Psylocke",
+    "price": "3800",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_809540-MLA31595180501_072019-O.webp",
+    "id": 4
+  }
+]
